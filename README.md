@@ -1,1 +1,2 @@
-# hotelbooking
+# Hotel Booking Web Application
+This is a web application designed in PHP to help users search for hotels based on specified criteria such as price, location, area, space, and the number of beds. Additionally, the application allows users to book additional hotel services for convenience and comfort during their travels. With transparent room prices and objective reviews from previous users, travelers can find hotels of the highest quality to ensure the integrity of their journey.
